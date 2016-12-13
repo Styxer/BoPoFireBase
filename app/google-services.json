@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "380372699650",
+    "firebase_url": "https://bopo-152112.firebaseio.com",
+    "project_id": "bopo-152112",
+    "storage_bucket": "bopo-152112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380372699650:android:888fb42b6a6107e1",
+        "android_client_info": {
+          "package_name": "com.example.ofir.bopo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380372699650-evkbbptvnkc44j06qe1b6gboumuv8da4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ofir.bopo",
+            "certificate_hash": "A8A2BE67AA2FC6A2BA4058C9D74138D098B6DA42"
+          }
+        },
+        {
+          "client_id": "380372699650-2qt155m61sitv7jn2vv5kbemf523vmtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjtRfCYw4ttijkTqBDPYfXcHl7mLE6fl0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380372699650-2qt155m61sitv7jn2vv5kbemf523vmtr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
