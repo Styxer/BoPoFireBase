@@ -7,7 +7,7 @@ import android.widget.Button;
 
 import com.firebase.client.Firebase;
 
-public class Test1Activity extends AppCompatActivity {
+public class sendOneObjectTestActivity extends AppCompatActivity {
 
     private Button mAdd;
     private Firebase mRef;
@@ -15,7 +15,7 @@ public class Test1Activity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_test1);
+        setContentView(R.layout.activity_send_one_object_test);
         Firebase.setAndroidContext(this);
         mRef = new Firebase("https://bopo-152112.firebaseio.com/");
 

@@ -9,8 +9,12 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
-        <activity android:name=".Test1Activity">
+        android:theme="@style/AppTheme"
+        android:name=".BoPo">
+        <activity android:name=".sendOneObjectTestActivity">
+
+        </activity>
+        <activity android:name=".sendMultipleObjectsTestActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
